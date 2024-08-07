@@ -1,6 +1,6 @@
 Privacy Policy
 
-hotoSearchApp  operates the PhotoSearchApp mobile application (the “Service”).
+PhotoSearchApp  operates the PhotoSearchApp mobile application (the “Service”).
 
 Information Collection and Use
 
